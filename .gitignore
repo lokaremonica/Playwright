@@ -1,0 +1,8 @@
+test-results.json
+test-results-*.json
+node_modules
+playwright-report
+test-results
+downloads
+login.json
+.env
